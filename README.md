@@ -2,4 +2,6 @@
 
 １．wsl.exe　でlinux に切り替える
 2. rails server　で起動。http://localhost:3000/users/sign_in　でログインフォームに
-3. 
+3. ユーザー登録後、ログインでログインできます
+
+4.ログアウトボタンを現在作製中です
