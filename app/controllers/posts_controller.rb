@@ -20,6 +20,10 @@ class PostsController < ApplicationController
         end
     end
 
+    def underPage
+        # ここに必要なロジックを追加
+      end
+
     private
 
     def post_params
